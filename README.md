@@ -1,4 +1,4 @@
-# Concurrent File Transfer Server
+# Basic File Transfer Server
 
 <div align="center">
 
@@ -340,11 +340,10 @@ __int64 network_size = htonll(file_size);  // Convert to network order
 
 ### Happy File Transferring!
 
-_Built with ❤️ for Network Programming_
+_Built for Network Programming_
 
 ---
 
-**Made by**: Nishan | **Course**: Network Programming Lab | **Semester**: 6th  
-**Institution**: University Lab Project
+**Made by**: Nishan and Rishav | **Course**: Network Programming Lab | **Semester**: 6th
 
 </div>
